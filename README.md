@@ -1,6 +1,6 @@
 # News Site
 
-Replace this readme with your own information about the project. You can include things like:
+Updating readme to make sure i'm not screwing anything up. 
 
 - Brief description of the assignment
 - How you approached the task, what tools and techniques you used, and how you planned it
